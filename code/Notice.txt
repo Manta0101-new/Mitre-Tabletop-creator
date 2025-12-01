@@ -1,0 +1,39 @@
+ATTRIBUTION AND NOTICES
+
+This software includes or references the following third-party materials:
+
+================================================================================
+
+MITRE ATT&CK® Framework
+
+This software utilizes data and information from the MITRE ATT&CK® framework.
+
+© 2025 The MITRE Corporation
+
+This work is reproduced and distributed with the permission of The MITRE 
+Corporation.
+
+MITRE ATT&CK® and ATT&CK® are registered trademarks of The MITRE Corporation.
+
+The MITRE Corporation (MITRE) hereby grants you a non-exclusive, royalty-free 
+license to use ATT&CK® for research, development, and commercial purposes. 
+Any commercial use of ATT&CK® content must be consistent with MITRE's Terms 
+of Use.
+
+For more information about MITRE ATT&CK®, please visit:
+https://attack.mitre.org/
+
+Terms of Use: https://attack.mitre.org/resources/terms-of-use/
+
+================================================================================
+
+Additional Attributions:
+
+Author: Kenneth Ray
+Version: 1.0b
+License: MIT License (see LICENSE.txt)
+
+================================================================================
+
+For the complete MIT License text, please refer to the LICENSE.txt file 
+included with this software.
